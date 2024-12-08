@@ -68,7 +68,7 @@ const Footer = () => {
         </div>
           <div className="footer-strip">
             <div className="left-strip">
-              <span className="f-link other">Copyright Dude Immigration@Viranch Dave/8929933, 2023</span>
+              <span className="f-link other">Copyright Dude Immigration@Viranch Dave/8929933,Athulya Mary/8911939 ,2024</span>
             </div>
             <div className="right-strip">
               <span className="f-link other">Terms and conditions</span>
