@@ -114,6 +114,18 @@ const Contact = () => {
           font-size: 1rem;
           color: #777;
         }
+        @media (max-width: 768px) {
+          .primary-header {
+            font-size: 2rem;
+          }
+          .p-txt {
+            font-size: 1rem;
+          }
+          #submit {
+            width: 100%;
+            padding: 12px;
+          }
+        }
       `}</style>
     </div>
   );
