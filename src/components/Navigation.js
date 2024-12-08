@@ -28,10 +28,10 @@ const Navigation = () => {
     </div>
       <ul className="navbar-nav only-desktop">
         <li className="nav-item">
-          <a className="nav-link" href="./index.html">Home</a>
+          <a className="nav-link" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./about.html">About</a>
+          <a className="nav-link" href="/about">About</a>
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
@@ -47,13 +47,13 @@ const Navigation = () => {
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" href="./blog.html">Blog</a>
+          <a className="nav-link" href="/blog">Blog</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./contact.html">Contact us</a>
+          <a className="nav-link" href="/contact">Contact us</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./help.html">Help</a>
+          <a className="nav-link" href="/help">Help</a>
         </li>
             <button className="consultation-btn"><h4>Book A Consultation</h4></button>
       </ul>
@@ -64,10 +64,10 @@ const Navigation = () => {
       )}>
         <div className="mobile-links">
         <li className="nav-item">
-          <a className="nav-link" href="./index.html">Home</a>
+          <a className="nav-link" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./about.html">About</a>
+          <a className="nav-link" href="/about">About</a>
         </li>
         <li className="nav-item dropdown">
           <a className="nav-link" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
@@ -83,13 +83,13 @@ const Navigation = () => {
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" href="./blog.html">Blog</a>
+          <a className="nav-link" href="/blog">Blog</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./contact.html">Contact us</a>
+          <a className="nav-link" href="/contact">Contact us</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="./help.html">Help</a>
+          <a className="nav-link" href="/help">Help</a>
         </li>
             <button className="consultation-btn"><h4>Book A Consultation</h4></button>
           </div>
