@@ -136,7 +136,7 @@ const About = () => {
                     />
                   </div>
                 </div>
-                <a href="./blog.html">
+                <a href="/blog">
                   <div className="view-btn">
                     <button className="learn-more-btn">View All</button>
                   </div>
