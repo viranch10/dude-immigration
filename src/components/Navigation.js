@@ -16,7 +16,7 @@ const Navigation = () => {
                       <div className="fixed-top">
     <nav className="navbar main-nav">
         
-      <a href="./index.html" className="logo">
+      <a href="/" className="logo">
         <div className="logo-img">
           <img src="/images/logo-black-removebg-preview (1).png" alt="logo" className="img" />
         </div>
