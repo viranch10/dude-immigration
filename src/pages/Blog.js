@@ -30,13 +30,13 @@ const Blog = () => {
                 <h3 className="blog-title">{blog.title}</h3>
                 <img className="blog-img" src={blog.image} alt={`blog${index + 1}.jpg`} />
                 <p className="blog-description">{blog.description}</p>
-                <a href={`/blog/${index + 1}`}>
+                <a href="#">
                   <button className="learn-more-btn">Learn More</button>
                 </a>
               </div>
             ))}
           </div>
-          <a href="/blogs">
+          <a href="#">
             <div className="view-btn">
               <button className="learn-more-btn">View All</button>
             </div>
